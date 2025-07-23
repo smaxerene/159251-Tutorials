@@ -1,3 +1,1 @@
-# 159251-Tutorials
-
-Week 2 Tutorial 1: Version control with Git
+# 159251 Week 2 Tutorial 1: Version control with Git
